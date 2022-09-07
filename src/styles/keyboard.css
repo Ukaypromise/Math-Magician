@@ -1,5 +1,5 @@
 .keyBoard {
-  height: 90%;
+  height: 100%;
   display: grid;
   gap: 0.2rem;
   grid-template-areas:
