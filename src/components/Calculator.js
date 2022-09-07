@@ -117,7 +117,7 @@ export class Calculator extends Component {
             onClick={this.handleClick}
             className="btn btn-Div"
           >
-            /
+            ÷
           </button>
           <button
             type="button"
