@@ -1,0 +1,104 @@
+.keyBoard {
+  height: 100%;
+  display: grid;
+  gap: 0.2rem;
+  grid-template-areas:
+    "AC plusminus percentage division"
+    "seven eight nine X"
+    "four five six minus"
+    "one two three add"
+    "zero zero decimal equals";
+}
+
+.btn-0 {
+  grid-area: zero;
+}
+
+.btn-1 {
+  grid-area: one;
+}
+
+.btn-2 {
+  grid-area: two;
+}
+
+.btn-3 {
+  grid-area: three;
+}
+
+.btn-4 {
+  grid-area: four;
+}
+
+.btn-5 {
+  grid-area: five;
+}
+
+.btn-6 {
+  grid-area: six;
+}
+
+.btn-7 {
+  grid-area: seven;
+}
+
+.btn-8 {
+  grid-area: eight;
+}
+
+.btn-9 {
+  grid-area: nine;
+}
+
+.btn-Add {
+  grid-area: add;
+  background-color: orange;
+}
+
+.btn-Minus {
+  grid-area: minus;
+  background-color: orange;
+}
+
+.btn-Div {
+  grid-area: division;
+  background-color: orange;
+}
+
+.btn-Multiply {
+  grid-area: X;
+  background-color: orange;
+}
+
+.btn-Equal {
+  grid-area: equals;
+  background-color: orange;
+}
+
+.btn-Percentage {
+  grid-area: percentage;
+}
+
+.btn-AllClear {
+  grid-area: AC;
+  background-color: red;
+}
+
+.btn-MasMin {
+  grid-area: plusminus;
+}
+
+.btn-Decimal {
+  grid-area: decimal;
+}
+
+.btn {
+  border: none;
+  border: 1px solid rgb(238, 236, 236);
+}
+
+.btn:hover {
+  /* transform: scale(0.95); */
+  background-color: rgba(5, 8, 4, 0.5);
+  color: #fff;
+}
