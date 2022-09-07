@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Keyboard from './Keyboard';
+import KeyboardPad from './Keyboard';
 import '../styles/calculator.css';
 
 export class Calculator extends Component {
@@ -12,7 +12,7 @@ export class Calculator extends Component {
     return (
       <div className="wrapper">
         <p className="display">0 </p>
-        <Keyboard />
+        <KeyboardPad />
       </div>
     );
   }
