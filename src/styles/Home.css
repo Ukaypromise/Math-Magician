@@ -23,14 +23,13 @@ h1 {
   border-radius: 8px;
   padding: 2rem 4rem;
   margin-bottom: 1.5rem;
-  border-radius: 10px;
   background: #e0e0e0;
-  box-shadow: 6px -6px 8px #9d9d9d, -6px 6px 8px #ffffff;
+  box-shadow: 6px -6px 8px #9d9d9d, -6px 6px 8px #fff;
 }
 
-.footer{
-    width: 100%;
-    text-align: center;
-    margin-top: 1.5rem;
-    font-size: 1.3rem;
+.footer {
+  width: 100%;
+  text-align: center;
+  margin-top: 1.5rem;
+  font-size: 1.3rem;
 }

@@ -2,7 +2,7 @@
   width: 90%;
   height: 100%;
   margin: 6rem auto;
-  background-color: bisque;  
+  background-color: bisque;
   font-weight: bold;
 }
 
@@ -120,8 +120,7 @@
 }
 
 @media (min-width: 768px) {
- .wrapper {
-  width: 60%;
-}
-
+  .wrapper {
+    width: 60%;
+  }
 }

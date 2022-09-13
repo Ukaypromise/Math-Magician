@@ -5,10 +5,8 @@
   border-radius: 8px;
   padding: 2rem 3rem;
   margin-bottom: 1.5rem;
-  border-radius: 10px;
   background: #e0e0e0;
-  box-shadow: 6px -6px 8px #9d9d9d, -6px 6px 8px #ffffff;
-  
+  box-shadow: 6px -6px 8px #9d9d9d, -6px 6px 8px #fff;
 }
 
 .quote-container p {
@@ -19,23 +17,22 @@
   margin-bottom: 2rem;
 }
 
-.quote-container span{
-    display: block;
-    text-align: right;
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-top: 1rem;
+.quote-container span {
+  display: block;
+  text-align: right;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 1rem;
 }
 
 @media (min-width: 768px) {
- .quote-container {
-  height: 300px;
-  width: 60%;
- 
-}
-.quote-container p {
-   margin-top: 5rem;
-   font-size: 3rem;
-}
+  .quote-container {
+    height: 300px;
+    width: 60%;
+  }
 
+  .quote-container p {
+    margin-top: 5rem;
+    font-size: 3rem;
+  }
 }
