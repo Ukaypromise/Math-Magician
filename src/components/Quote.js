@@ -1,6 +1,7 @@
 import React from 'react';
+import '../styles/Quote.css';
 
-const Qoutes = () => {
+const Qoute = () => {
   const quote = 'Mathematics is not about numbers equations, computations, or algorithms. It is about undersatanding.';
   const author = '-William paul Thurston';
   return (
@@ -11,4 +12,4 @@ const Qoutes = () => {
   );
 };
 
-export default Qoutes;
+export default Qoute;

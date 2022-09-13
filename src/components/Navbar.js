@@ -1,10 +1,11 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import '../styles/Navbar.css';
 
 const Navbar = () => (
   <nav>
     <div>
-      <NavLink className="logo" to="/math-magician">
+      <NavLink className="tag-name" to="/math-magician">
         Math Magicians
       </NavLink>
     </div>
@@ -28,7 +29,7 @@ const Navbar = () => (
       <li>
         <NavLink
           className={({ isActive }) => (isActive ? 'active' : '')}
-          to="/Quotes"
+          to="/Quote"
         >
           Quotes
         </NavLink>
