@@ -3,7 +3,7 @@ import App from './App';
 import Home from './components/Home';
 import Calculator from './components/Calculator';
 import Quote from './components/Quote';
-// import userEvent from "@testing-library/user-event";
+import userEvent from "@testing-library/user-event";
 
 test('renders learn react link', () => {
   render(<App />);
@@ -23,4 +23,13 @@ test('Calculator router', () => {
 test('Quote router', () => {
   const hm = render(<Quote />);
   expect(hm).toMatchSnapshot();
+});
+
+test("Dom Calculator", () => {
+  render(<Calculator />);
+  userEvent.click(screen.getByText("3"));
+  userEvent.click(screen.getByText("+"));
+  userEvent.click(screen.getByText("2"));
+  userEvent.click(screen.getByText("="));
+  expect(screen.getByTestId("display")).toHaveTextContent("5");
 });
