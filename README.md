@@ -26,7 +26,7 @@
 
 ## Live Demo
 
-[Check Me Out!!!](https://mathy-calculator.netlify.app/math-magician)
+[Check Me Out!!!](https://mathy-calculator.netlify.app/)
 
 
 ## Getting Started
