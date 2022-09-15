@@ -19,7 +19,7 @@ return (
       <Navbar />
       <section className="content">
         <Routes>
-          <Route path="/math-magician" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route
             path="/Calculator"
             element={<Calculator className="calculator" />}
