@@ -1,8 +1,8 @@
-import calculate from "./calculate";
-import chai from "chai";
+import chai from 'chai';
+import calculate from './calculate';
 
 chai.config.truncateThreshold = 0;
-const expect = chai.expect;
+const { expect } = chai;
 
 function pressedButtons(buttons) {
   const value = {};
@@ -22,10 +22,10 @@ function expectedButtons(buttons, expectations) {
 }
 function test(buttons, expectations, only = false) {
   const func = only ? it.only : it;
-  func(`buttons ${buttons.join("")}->${JSON.stringify(expectations)}`, () => {
+  func(`buttons ${buttons.join('')}->${JSON.stringify(expectations)}`, () => {
     expectedButtons(buttons, expectations);
   });
 }
-describe("calculate", function () {
-  test(["6"], { next: "6" });
+describe('calculate', () => {
+  test(['6'], { next: '6' });
 });
