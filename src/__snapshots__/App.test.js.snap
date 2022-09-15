@@ -1,0 +1,680 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator router 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="wrapper"
+      >
+        <div
+          class="display"
+        >
+          0
+        </div>
+        <div
+          class="keyBoard"
+        >
+          <button
+            class="btn btn-0"
+            type="button"
+          >
+            0
+          </button>
+          <button
+            class="btn btn-1"
+            type="button"
+          >
+            1
+          </button>
+          <button
+            class="btn btn-2"
+            type="button"
+          >
+            2
+          </button>
+          <button
+            class=" btn btn-3"
+            type="button"
+          >
+            3
+          </button>
+          <button
+            class=" btn btn-4"
+            type="button"
+          >
+            4
+          </button>
+          <button
+            class="btn btn-5"
+            type="button"
+          >
+            5
+          </button>
+          <button
+            class=" btn btn-6"
+            type="button"
+          >
+            6
+          </button>
+          <button
+            class=" btn btn-7"
+            type="button"
+          >
+            7
+          </button>
+          <button
+            class="btn btn-8"
+            type="button"
+          >
+            8
+          </button>
+          <button
+            class="btn btn-9"
+            type="button"
+          >
+            9
+          </button>
+          <button
+            class="btn btn-Add"
+            type="button"
+          >
+            +
+          </button>
+          <button
+            class="btn btn-Minus"
+            type="button"
+          >
+            -
+          </button>
+          <button
+            class="btn btn-Div"
+            type="button"
+          >
+            ÷
+          </button>
+          <button
+            class="btn btn-Multiply"
+            type="button"
+          >
+            x
+          </button>
+          <button
+            class="btn btn-Equal"
+            type="button"
+          >
+            =
+          </button>
+          <button
+            class="btn btn-Percentage"
+            type="button"
+          >
+            %
+          </button>
+          <button
+            class="btn btn-AllClear"
+            type="button"
+          >
+            AC
+          </button>
+          <button
+            class="btn btn-MasMin"
+            type="button"
+          >
+            +/-
+          </button>
+          <button
+            class="btn btn-Decimal"
+            type="button"
+          >
+            .
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="wrapper"
+    >
+      <div
+        class="display"
+      >
+        0
+      </div>
+      <div
+        class="keyBoard"
+      >
+        <button
+          class="btn btn-0"
+          type="button"
+        >
+          0
+        </button>
+        <button
+          class="btn btn-1"
+          type="button"
+        >
+          1
+        </button>
+        <button
+          class="btn btn-2"
+          type="button"
+        >
+          2
+        </button>
+        <button
+          class=" btn btn-3"
+          type="button"
+        >
+          3
+        </button>
+        <button
+          class=" btn btn-4"
+          type="button"
+        >
+          4
+        </button>
+        <button
+          class="btn btn-5"
+          type="button"
+        >
+          5
+        </button>
+        <button
+          class=" btn btn-6"
+          type="button"
+        >
+          6
+        </button>
+        <button
+          class=" btn btn-7"
+          type="button"
+        >
+          7
+        </button>
+        <button
+          class="btn btn-8"
+          type="button"
+        >
+          8
+        </button>
+        <button
+          class="btn btn-9"
+          type="button"
+        >
+          9
+        </button>
+        <button
+          class="btn btn-Add"
+          type="button"
+        >
+          +
+        </button>
+        <button
+          class="btn btn-Minus"
+          type="button"
+        >
+          -
+        </button>
+        <button
+          class="btn btn-Div"
+          type="button"
+        >
+          ÷
+        </button>
+        <button
+          class="btn btn-Multiply"
+          type="button"
+        >
+          x
+        </button>
+        <button
+          class="btn btn-Equal"
+          type="button"
+        >
+          =
+        </button>
+        <button
+          class="btn btn-Percentage"
+          type="button"
+        >
+          %
+        </button>
+        <button
+          class="btn btn-AllClear"
+          type="button"
+        >
+          AC
+        </button>
+        <button
+          class="btn btn-MasMin"
+          type="button"
+        >
+          +/-
+        </button>
+        <button
+          class="btn btn-Decimal"
+          type="button"
+        >
+          .
+        </button>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Home router 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <section
+          class="Home"
+        >
+          <h1>
+            Welcome to our Page!
+          </h1>
+          <p>
+            ipsum dolor sit amet consectetur, adipisicing elit. Odio error inventore perferendis dolorum rem blanditiis cupiditate impedit cum debitis nobis!
+          </p>
+          <p>
+            ipsum dolor sit amet consectetur, adipisicing elit. Odio error inventore perferendis dolorum rem blanditiis cupiditate impedit cum debitis nobis!
+          </p>
+          <p>
+            ipsum dolor sit amet consectetur, adipisicing elit. Odio error inventore perferendis dolorum rem blanditiis cupiditate impedit cum debitis nobis!
+          </p>
+        </section>
+        <footer>
+          <p
+            class="footer"
+          >
+            Designed by Promise Uka
+          </p>
+        </footer>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <section
+        class="Home"
+      >
+        <h1>
+          Welcome to our Page!
+        </h1>
+        <p>
+          ipsum dolor sit amet consectetur, adipisicing elit. Odio error inventore perferendis dolorum rem blanditiis cupiditate impedit cum debitis nobis!
+        </p>
+        <p>
+          ipsum dolor sit amet consectetur, adipisicing elit. Odio error inventore perferendis dolorum rem blanditiis cupiditate impedit cum debitis nobis!
+        </p>
+        <p>
+          ipsum dolor sit amet consectetur, adipisicing elit. Odio error inventore perferendis dolorum rem blanditiis cupiditate impedit cum debitis nobis!
+        </p>
+      </section>
+      <footer>
+        <p
+          class="footer"
+        >
+          Designed by Promise Uka
+        </p>
+      </footer>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Navbar router 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="quote-container"
+      >
+        <p>
+          Mathematics is not about numbers equations, computations, or algorithms. It is about undersatanding.
+        </p>
+        <span>
+          -William paul Thurston
+        </span>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="quote-container"
+    >
+      <p>
+        Mathematics is not about numbers equations, computations, or algorithms. It is about undersatanding.
+      </p>
+      <span>
+        -William paul Thurston
+      </span>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Quote router 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="quote-container"
+      >
+        <p>
+          Mathematics is not about numbers equations, computations, or algorithms. It is about undersatanding.
+        </p>
+        <span>
+          -William paul Thurston
+        </span>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="quote-container"
+    >
+      <p>
+        Mathematics is not about numbers equations, computations, or algorithms. It is about undersatanding.
+      </p>
+      <span>
+        -William paul Thurston
+      </span>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Quote router 2`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="quote-container"
+      >
+        <p>
+          Mathematics is not about numbers equations, computations, or algorithms. It is about undersatanding.
+        </p>
+        <span>
+          -William paul Thurston
+        </span>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="quote-container"
+    >
+      <p>
+        Mathematics is not about numbers equations, computations, or algorithms. It is about undersatanding.
+      </p>
+      <span>
+        -William paul Thurston
+      </span>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
