@@ -13,7 +13,7 @@ const Navbar = () => (
       <li>
         <NavLink
           className={({ isActive }) => (isActive ? 'active' : '')}
-          to="/math-magician"
+          to="/"
         >
           Home
         </NavLink>
