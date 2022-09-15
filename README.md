@@ -14,9 +14,19 @@
 - Git and Gitflow
 - Linters
 
-## Live Demo (Not Available yet)
 
-[Live Demo Link](https://livedemo.com)
+<b>
+
+
+![home](https://user-images.githubusercontent.com/85847249/190492865-6b32f2d7-421e-42f6-96ad-7f255907e76b.png)
+![calculator](https://user-images.githubusercontent.com/85847249/190492911-25b5defa-aca2-4fcc-9c95-a4d185f3fc5a.png)
+![quotes](https://user-images.githubusercontent.com/85847249/190492940-6ac04fed-20b0-4887-9fa6-408b30a7c01f.png)
+
+
+
+## Live Demo
+
+[Check Me Out!!!](https://mathy-calculator.netlify.app/math-magician)
 
 
 ## Getting Started
