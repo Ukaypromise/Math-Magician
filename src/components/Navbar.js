@@ -5,7 +5,7 @@ import '../styles/Navbar.css';
 const Navbar = () => (
   <nav>
     <div>
-      <NavLink className="tag-name" to="/math-magician">
+      <NavLink className="tag-name" to="/">
         Math Magicians
       </NavLink>
     </div>

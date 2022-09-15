@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from './components/Home';
 import Navbar from './components/Navbar'; 
 import Quote from './components/Quote';
+import Footer from './components/Footer';
 
 export class App extends Component {
   constructor(props) {
@@ -27,6 +28,7 @@ return (
           <Route path="/Quote" element={<Quote />} />
         </Routes>
       </section>
+      <Footer/>
     </Router>
   </>
 );

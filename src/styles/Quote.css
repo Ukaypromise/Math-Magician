@@ -1,7 +1,7 @@
 .quote-container {
   width: 90%;
   margin: 8rem auto;
-  font-size: 1.8rem;
+  font-size: 1.3rem;
   border-radius: 8px;
   padding: 2rem 3rem;
   margin-bottom: 1.5rem;
@@ -12,7 +12,7 @@
 .quote-container p {
   text-align: center;
   font-style: italic;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: bold;
   margin-bottom: 2rem;
 }
@@ -20,7 +20,7 @@
 .quote-container span {
   display: block;
   text-align: right;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: bold;
   margin-top: 1rem;
 }
@@ -33,6 +33,6 @@
 
   .quote-container p {
     margin-top: 5rem;
-    font-size: 3rem;
+    font-size: 1.3rem;
   }
 }

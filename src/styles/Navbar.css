@@ -6,7 +6,7 @@ nav {
   background-color: #e0e0e0;
   box-shadow: 6px -6px 8px #9d9d9d, -6px 6px 8px #fff;
   gap: 2rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: bold;
 }
 
@@ -44,10 +44,10 @@ ul li:not(:first-child)::before {
 @media (min-width: 768px) {
   nav {
     padding: 3rem 8rem;
-    font-size: 2rem;
+    font-size: 1.3rem;
   }
 
   ul {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 }
